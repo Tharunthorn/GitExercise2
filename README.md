@@ -1,2 +1,3 @@
 # GitExercise2
-Readme with name
+StudentID: 6410545479
+StudentName: Tharunthorn Musik
